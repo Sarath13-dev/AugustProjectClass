@@ -1,0 +1,24 @@
+{
+	"name": "RamSarath",
+	"id": 300,
+	"courses": [
+		"Java",
+		"Maven",
+		"Selenium"
+	],
+	"address": {
+		"city": "Chennai",
+		"state": "tamil nadu",
+		"country": "india"
+	},
+	"employees": [
+		{
+			"name": "Anand",
+			"id": 200
+		},
+		{
+			"name": "Babu",
+			"id": 300
+		}
+	]
+}

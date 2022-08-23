@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14975" started-at="2022-06-03T11:17:38Z" finished-at="2022-06-03T11:17:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11423" started-at="2022-06-03T11:17:38Z" finished-at="2022-06-03T11:17:49Z">
+      <class name="org.project.ParallelCrossBrowser">
+        <test-method status="PASS" signature="tc0(java.lang.String)[pri:0, instance:org.project.ParallelCrossBrowser@327b636c]" name="tc0" duration-ms="5811" started-at="2022-06-03T11:17:38Z" finished-at="2022-06-03T11:17:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0 -->
+        <test-method status="PASS" signature="tc1(java.lang.String)[pri:0, instance:org.project.ParallelCrossBrowser@327b636c]" name="tc1" duration-ms="5593" started-at="2022-06-03T11:17:44Z" finished-at="2022-06-03T11:17:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- org.project.ParallelCrossBrowser -->
+    </test> <!-- Test -->
+    <test name="Test1" duration-ms="14975" started-at="2022-06-03T11:17:38Z" finished-at="2022-06-03T11:17:53Z">
+      <class name="org.project.ParallelCrossBrowser">
+        <test-method status="PASS" signature="tc0(java.lang.String)[pri:0, instance:org.project.ParallelCrossBrowser@13c10b87]" name="tc0" duration-ms="7236" started-at="2022-06-03T11:17:38Z" finished-at="2022-06-03T11:17:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0 -->
+        <test-method status="PASS" signature="tc1(java.lang.String)[pri:0, instance:org.project.ParallelCrossBrowser@13c10b87]" name="tc1" duration-ms="7723" started-at="2022-06-03T11:17:45Z" finished-at="2022-06-03T11:17:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- org.project.ParallelCrossBrowser -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
